@@ -4,7 +4,7 @@
   "description": "Calculadora de propinas con js y API",
   "main": "index.html",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Cesar Sosa",
   "license": "ISC"
