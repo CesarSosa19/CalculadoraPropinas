@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
   "author": "Cesar Sosa",
   "license": "ISC"
 }
