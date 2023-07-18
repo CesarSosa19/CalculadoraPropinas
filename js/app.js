@@ -57,7 +57,7 @@ function mostrarSecciones(){
 }
 
 function obtenerPlatillos(){
-    const url = 'http://localhost:3000/platillos';
+    const url = 'https://calculadora-propinas-ten.vercel.app/db.json';
 
     fetch(url)
         .then(respuesta => respuesta.json())
