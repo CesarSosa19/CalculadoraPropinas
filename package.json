@@ -2,7 +2,7 @@
   "name": "calculadora-de-propinas-con-json-server",
   "version": "1.0.0",
   "description": "Calculadora de propinas con js y API",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
